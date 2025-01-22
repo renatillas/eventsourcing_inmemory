@@ -4,8 +4,8 @@ version = "1.0.0"
 # Fill out these fields if you intend to generate HTML documentation or publish
 # your project to the Hex package manager.
 #
-# description = ""
-# licences = ["Apache-2.0"]
+description = "eventsourcing_inmemory provides an in-memory event store implementation for the [eventsourcing](https://github.com/renatillas/eventsourcing) library. It's designed for development, testing, and small-scale applications where persistence isn't required."
+licences = ["MIT"]
 # repository = { type = "github", user = "", repo = "" }
 # links = [{ title = "Website", href = "" }]
 #
